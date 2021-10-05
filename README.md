@@ -1,4 +1,4 @@
-# Messenger Clone page 
+# Messenger Clone App
 
 Developed by Jose Miguel Acosta Carias.
 
